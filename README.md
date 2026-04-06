@@ -2,7 +2,7 @@
 
 # Whisper: Simple Semantic Guidance for Multi-Granularity Medical Image Understanding
 
-Whisper jointly learns image-level classification and patch-level subtype discovery by bridging medical text embeddings with visual patch features through cross-modal attention. It requires only a single medical term per class, with no pretraining or image-text paired data.
+Whisper jointly learns image-level classification and patch-level subtype clustering by bridging medical text embeddings with visual patch features through cross-modal attention. It requires only a single medical term per class, with no pretraining or image-text paired data.
 
 ## Installation
 
