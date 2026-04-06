@@ -1,4 +1,4 @@
-<img width="144" height="144" alt="IEEE稿件撰写指南" src="https://github.com/user-attachments/assets/36364f11-9f1b-43ea-9fec-3b43233d87c6" />
+<img width="144" height="144" alt="IEEE稿件撰写指南 (Edited) (Edited)" src="https://github.com/user-attachments/assets/c76a10d1-3e2d-4324-bbd0-f7256656b61e" />
 
 # Whisper: Simple Semantic Guidance for Multi-Granularity Medical Image Understanding
 
