@@ -8,7 +8,7 @@ Whisper jointly learns image-level classification and patch-level subtype discov
 
 ```bash
 git clone https://github.com/ExtremumAI/whisper.git
-cd whisper-framework
+cd whisper
 pip install -r requirements.txt
 ```
 
