@@ -1,5 +1,5 @@
-<img width="2048" height="2048" alt="IEEE稿件撰写指南" src="https://github.com/user-attachments/assets/c78708cd-1b6e-417d-b62b-bce5cffdcaf5" />
-<img width="2048" height="2048" alt="IEEE稿件撰写指南" src="https://github.com/user-attachments/assets/f2497597-5b54-475a-ba82-059654d8f6d0" />
+<img width="2048" height="2048" alt="IEEE稿件撰写指南" src="https://github.com/user-attachments/assets/36364f11-9f1b-43ea-9fec-3b43233d87c6" />
+
 # Whisper
 **Semantic-Guided Multi-Granularity Learning for Medical Image Classification**
 
