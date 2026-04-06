@@ -79,9 +79,9 @@ If you find this work useful, please cite:
 ```bibtex
 @article{whisper2024,
   title   = {Whisper: Semantic-Guided Multi-Granularity Learning for Medical Image Classification},
-  author  = {Zhen Jiang, Yan Zhang},
+  author  = {Zhen Jiang, Yan Zhang, Shuxin Yin, Zhaoyan Yu, Liang Sun},
   journal = {},
-  year    = {2024}
+  year    = {2026}
 }
 ```
 
