@@ -1,4 +1,4 @@
-# Whisper: Semantic-Guided Multi-Granularity Learning for Medical Image Classification
+# Whisper: Simple Semantic Guidance for Multi-Granularity Medical Image Understanding
 
 <img width="144" height="144" alt="Whisper Logo" src="https://github.com/user-attachments/assets/c76a10d1-3e2d-4324-bbd0-f7256656b61e" />
 
