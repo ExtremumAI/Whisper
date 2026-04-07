@@ -1,4 +1,5 @@
 <img width="144" height="144" alt="Whisper Logo" src="https://github.com/user-attachments/assets/c76a10d1-3e2d-4324-bbd0-f7256656b61e" />
+
 # Whisper: Simple Semantic Guidance for Multi-Granularity Medical Image Understanding
 
 Whisper is a multi-task learning framework for medical image classification that jointly optimizes image-level classification and patch-level subtype clustering. It bridges medical text embeddings with visual patch features through cross-modal attention, requiring only a single medical term per class—no pretraining or image-text paired data needed.
